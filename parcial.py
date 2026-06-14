@@ -79,7 +79,7 @@ def parcial():
     </div>
     """, unsafe_allow_html=True)
 
-    VIDEO_URL = "https://www.youtube.com/watch?v=XXXXXXXXXX"  # 👈 Tu link de YouTube
+    VIDEO_URL = "https://youtu.be/st5Wl3PfEUY" 
     st.video(VIDEO_URL)
 
     # ── NAVEGACIÓN ───────────────────────────────────────────────
