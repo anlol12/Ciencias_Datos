@@ -34,15 +34,15 @@ def parcial():
             st.markdown("""
             <div class="photo-placeholder">
                 <span style="font-size:2rem">📷</span>
-                <span>Coloca tu foto<br>como <b>mi_foto.jpg</b></span>
+                <span><br>como <b>mi_foto.jpg</b></span>
             </div>
             """, unsafe_allow_html=True)
 
     with col_info:
         st.markdown("""
         <div class="hero-wrap">
-            <p class="hero-name">Tu Nombre Aquí</p>
-            <p class="hero-sub">Ingeniería en Sistemas y Redes Informáticas &nbsp;·&nbsp; UGB Ciclo I-2026</p>
+            <p class="hero-name">Anderson Jose Berrios Diaz</p>
+            <p class="hero-sub">Ingeniería en Sistemas y Redes Informáticas &nbsp;·&nbsp;</p>
             <div>
                 <span class="badge">Python</span>
                 <span class="badge">Streamlit</span>
@@ -51,11 +51,12 @@ def parcial():
                 <span class="badge badge-orange">Data Analysis</span>
             </div>
             <p class="hero-bio">
-                <!-- 👈 Escribe aquí tu resumen de 3 a 5 líneas -->
-                Escribe aquí tu presentación personal. Puedes hablar de tu carrera,
-                qué te llamó la atención de la ciencia de datos, qué aprendiste
-                con este proyecto y cuáles son tus metas profesionales.
-                Sé directo y natural, como si se lo explicaras a alguien que no te conoce.
+                Soy estudiante de Ingeniería en Sistemas y Redes Informáticas 
+                en la Universidad Gerardo Barrios. 
+                Me apasiona el mundo de la tecnología y el desarrollo, 
+                especialmente la programación, el diseño de bases de 
+                datos en SQL, la electrónica y, sobre todo, la ciencia y 
+                el análisis de datos.
             </p>
         </div>
         """, unsafe_allow_html=True)
@@ -123,4 +124,3 @@ def parcial():
         </div>
         """, unsafe_allow_html=True)
 
-    st.markdown('<div class="footer">Portafolio de Ciencia de Datos · Técnica Electiva I · UGB Ciclo I-2026</div>', unsafe_allow_html=True)

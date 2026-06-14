@@ -52,10 +52,6 @@ with st.sidebar:
     <div style="padding: 8px 0 20px 0">
         <p style="font-size:0.7rem; color:#484f58; text-transform:uppercase;
                   letter-spacing:1.2px; margin:0 0 8px 0">Portafolio</p>
-        <p style="font-size:1.1rem; font-weight:700; color:#e6edf3; margin:0">
-            Ciencia de Datos
-        </p>
-        <p style="font-size:0.78rem; color:#7d8590; margin:2px 0 0 0">UGB · Ciclo I-2026</p>
     </div>
     """, unsafe_allow_html=True)
 

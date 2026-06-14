@@ -215,15 +215,7 @@ def aplicar_estilos():
     }
     .stButton > button:hover { background: #29b6f6 !important; }
 
-    /* ── PIE DE PÁGINA ── */
-    .footer {
-        text-align: center;
-        color: #484f58;
-        font-size: 0.78rem;
-        padding: 32px 0 12px 0;
-        border-top: 1px solid #21262d;
-        margin-top: 40px;
-    }
+    
     </style>
     """, unsafe_allow_html=True)
 
