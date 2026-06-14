@@ -1,0 +1,11 @@
+streamlit
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+pillow
+requests
+beautifulsoup4
+sentiment-analysis-spanish
+openpyxl
